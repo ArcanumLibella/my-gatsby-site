@@ -19,6 +19,7 @@
     "gatsby-plugin-image": "^2.9.0",
     "gatsby-plugin-sharp": "^4.9.0",
     "gatsby-source-filesystem": "^4.9.0",
+    "gitmoji-cli": "^4.8.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
